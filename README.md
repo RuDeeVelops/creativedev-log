@@ -1,5 +1,11 @@
+[![Follow on YouTube](https://img.shields.io/badge/-Follow%20on%20YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/digitalclay)
 [![Twitter Follow](https://img.shields.io/twitter/follow/3DRudy.svg?style=social)](https://twitter.com/3DRudy)
 [![GitHub commits](https://img.shields.io/github/commit-activity/m/RuDeeVelops/creativedev-log.svg)](https://github.com/RuDeeVelops/creativedev-log/commits/main)
+<a href="#-1-better---daily-log-of-a-creative-dev">
+  <img src="https://github.com/RuDeeVelops/creativedev-log/blob/main/media/images/better_rodolfoFanti.svg" alt="1% Better Banner - Rodolfo Fanti">
+</a>
+
+
 
 
 
