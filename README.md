@@ -20,7 +20,17 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
 
  <details open><summary>February</summary>
 
-  - #### 07-Feb
+  - #### 08-Feb || Day 02
+    - 🎓 **Learning ||** Rive and motion design
+    - 🛠 **Building ||** An interactive 2D character animation and menu in Rive.
+    - 💡 **Big Challenge ||** Blending multiple timelines to have seamless transitions in Rive.
+    - 🏆 **Big Solution ||** Play with Exit Time/Duration of transition. Key with blending in mind.
+    - 🌟 **One Cool Find ||** [Chronicles by Basement Studio](https://chronicles.basement.studio/)
+    - 💭 **Idea Cloud ||** `GSAP` `Framer VS Webflow` `Code VS Low Code`
+    - 📝 **Blog Entry ||** n/a
+    - 🎥 **YouTube Entry ||** n/a
+
+  - #### 07-Feb || Day 01
     - 🎓 **Learning ||** Markdown, Rive and motion design
     - 🛠 **Building ||** An interactive 2D character animation and menu in Rive.
     - 💡 **Big Challenge ||** Creating visually enticing ideas in Github markdown.
