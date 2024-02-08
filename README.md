@@ -14,12 +14,9 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
 - **This is a minimalist daily log designed to track that journey, from beginning to infinite.** <br>
 - It's a compassionate, constant reminder that getting [1% better everyday](https://jamesclear.com/continuous-improvement) matters.
 - It was inspired by [this video](https://youtu.be/YKkJwBzBYSk?si=WukU4o1ESfslJhUw) and the [learning in public manifesto](https://www.swyx.io/learn-in-public) .
-<br>
 
-## Log Entries
 
-<details open>
-  <summary>📅 2024</summary>
+## 📅 2024
 
  <details open><summary>February</summary>
 
