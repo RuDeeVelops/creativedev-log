@@ -22,7 +22,8 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
 
   - #### 08-Feb || Day 02
     - 🎓 **Learning ||** Rive and motion design
-    - 🛠 **Building ||** An interactive 2D character animation and menu in Rive.
+    - 🛠  **Building ||** An interactive 2D character animation and menu in Rive.
+    - 🎨 **Daily Design ||** [Bento UI Sketch](https://dribbble.com/shots/23607027-Daily-Design-02-Bento-UI-Sketch)
     - 💡 **Big Challenge ||** Blending multiple timelines to have seamless transitions in Rive.
     - 🏆 **Big Solution ||** Play with Exit Time/Duration of transition. Key with blending in mind.
     - 🌟 **One Cool Find ||** [Chronicles by Basement Studio](https://chronicles.basement.studio/)
@@ -32,7 +33,8 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
 
   - #### 07-Feb || Day 01
     - 🎓 **Learning ||** Markdown, Rive and motion design
-    - 🛠 **Building ||** An interactive 2D character animation and menu in Rive.
+    - 🛠  **Building ||** An interactive 2D character animation and menu in Rive.
+    - 🎨 **Daily Design ||** [1% Better Banner](https://dribbble.com/shots/23603120-Daily-Design-01-1-better)
     - 💡 **Big Challenge ||** Creating visually enticing ideas in Github markdown.
     - 🏆 **Big Solution ||** Just keeping it simple and clean.
     - 🌟 **One Cool Find ||** [Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github)
