@@ -22,7 +22,7 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
   - 🎓 **Learning ||** Rive, Figma, Rive JS/WASM Runtine
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756101931720667232?s=20)
   - 🎨 **Daily Design ||** [Rothko Practice](https://dribbble.com/shots/23613844-Daily-Design-03-Rothko-Practice)
-  - 💡 **Big Challenge ||** Howw to sync multiple state machines from nested artboards in rive
+  - 💡 **Big Challenge ||** How to sync multiple state machines from nested artboards in rive
   - 🏆 **Big Solution ||** Exposing input to parent artboard gives you more variables to play with
   - 🌟 **One Cool Find ||** [World's Shortest Firma Course](https://youtu.be/1pW_sk-2y40?si=-qMFzeqxAOCtyZCg)
   - 💭 **Idea Cloud ||** `High VS Low Level coding`
