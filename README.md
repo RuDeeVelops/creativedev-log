@@ -17,6 +17,18 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
 
  <details open><summary>February</summary>
 
+- #### 10-Feb || Day 04
+
+  - 🎓 **Learning ||** Rive JS/WASM Runtine
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756254507393077458?s=20)
+  - 🎨 **Daily Design ||** [Soft Glow](https://dribbble.com/shots/23615606-Daily-Design-04-Soft-Glow)
+  - 💡 **Big Challenge ||** Pulling a single artboard in the Rive JS runtime among multiple ones
+  - 🏆 **Big Solution ||** artboard: "artboardName",
+  - 🌟 **One Cool Find ||** [Motion Design for the Web](https://www.youtube.com/watch?v=vqXLGX0szIQ)
+  - 💭 **Idea Cloud ||** `give others what they need`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 09-Feb || Day 03
 
   - 🎓 **Learning ||** Rive, Figma, Rive JS/WASM Runtine
