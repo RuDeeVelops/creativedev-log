@@ -7,7 +7,7 @@
 
 # 🚀 1% Better - Daily Log of a Creative Dev
 
-One month ago I decided to learn Creative Web Development, transitioning from a [10+ yrs career in 3D and VFX](https://www.imdb.com/name/nm10480418/).<br>
+In January 2024 I decided to learn Creative Web Development, transitioning from a [10+ yrs career in 3D and VFX](https://www.imdb.com/name/nm10480418/).<br>
 
 - **This is a minimalist daily log designed to track that journey, from beginning to infinite.** <br>
 - It's a compassionate, constant reminder that getting [1% better everyday](https://jamesclear.com/continuous-improvement) matters.
