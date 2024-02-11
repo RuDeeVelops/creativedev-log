@@ -17,6 +17,18 @@ One month ago I decided to learn Creative Web Development, transitioning from a 
 
  <details open><summary>February</summary>
 
+- #### 11-Feb || Day 05
+
+  - 🎓 **Learning ||** Astro, Figma grids
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756254507393077458?s=20)
+  - 🎨 **Daily Design ||** [Difficult Palette](https://dribbble.com/shots/23621347-Daily-Design-05-Difficult-Palette)
+  - 💡 **Big Challenge ||** Align 4 spheres in a particular layout
+  - 🏆 **Big Solution ||** Draw reference lines inside each circle
+  - 🌟 **One Cool Find ||** [Astro Crash Course in 60 minutes](https://www.youtube.com/watch?v=NniT0vKyn-E)
+  - 💭 **Idea Cloud ||** `Astro` `Perfectionism paralysis VS just do something`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 10-Feb || Day 04
 
   - 🎓 **Learning ||** Rive JS/WASM Runtine
