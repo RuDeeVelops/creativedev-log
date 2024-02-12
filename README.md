@@ -22,8 +22,8 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 🎓 **Learning ||** Figma, Rive JS Runtime
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
   - 🎨 **Daily Design ||** [Faint Idea](https://dribbble.com/shots/23628520-Daily-Design-06-Faint-Idea)
-  - 💡 **Big Challenge ||** The illusion of light from above
-  - 🏆 **Big Solution ||** Play with inner shadow and drop shadow
+  - 💡 **Big Challenge ||** Responsive left/right margins
+  - 🏆 **Big Solution ||** use `max-width:[percentage]vw` instead of `margin: [value]em [value]em`
   - 🌟 **One Cool Find ||** [Animated Border Gradient in CSS](https://codepen.io/shshaw/pen/QWoVdgd)
   - 💭 **Idea Cloud ||** `Learn in public` `Balance Showing / Doing`
   - 📝 **Blog Entry ||** n/a
