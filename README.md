@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 12-Feb || Day 06
+
+  - 🎓 **Learning ||** Figma, Rive JS Runtime
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
+  - 🎨 **Daily Design ||** [Faint Idea](https://dribbble.com/shots/23628520-Daily-Design-06-Faint-Idea)
+  - 💡 **Big Challenge ||** The illusion of light from above
+  - 🏆 **Big Solution ||** Play with inner shadow and drop shadow
+  - 🌟 **One Cool Find ||** [Animated Border Gradient in CSS](https://codepen.io/shshaw/pen/QWoVdgd)
+  - 💭 **Idea Cloud ||** `Learn in public` `Balance Showing / Doing`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 11-Feb || Day 05
 
   - 🎓 **Learning ||** Astro, Figma grids
@@ -31,7 +43,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
 - #### 10-Feb || Day 04
 
-  - 🎓 **Learning ||** Rive JS/WASM Runtine
+  - 🎓 **Learning ||** Rive JS/WASM Runtime
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756254507393077458?s=20)
   - 🎨 **Daily Design ||** [Soft Glow](https://dribbble.com/shots/23615606-Daily-Design-04-Soft-Glow)
   - 💡 **Big Challenge ||** Pulling a single artboard in the Rive JS runtime among multiple ones
@@ -43,7 +55,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
 - #### 09-Feb || Day 03
 
-  - 🎓 **Learning ||** Rive, Figma, Rive JS/WASM Runtine
+  - 🎓 **Learning ||** Rive, Figma, Rive JS/WASM Runtime
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756101931720667232?s=20)
   - 🎨 **Daily Design ||** [Rothko Practice](https://dribbble.com/shots/23613844-Daily-Design-03-Rothko-Practice)
   - 💡 **Big Challenge ||** How to sync multiple state machines from nested artboards in rive
