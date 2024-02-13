@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 13-Feb || Day 07
+
+  - 🎓 **Learning ||** Figma
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
+  - 🎨 **Daily Design ||** [Hard Boiled](https://dribbble.com/shots/23636219-Daily-Design-07-Hard-Boiled)
+  - 💡 **Big Challenge ||** optimize my youtube workflow to avoid time wasting
+  - 🏆 **Big Solution ||** voice-over 20%, 80% timelapse only
+  - 🌟 **One Cool Find ||** [@zozuar Shader Art](https://x.com/zozuar/status/1757194474973769884?s=20)
+  - 💭 **Idea Cloud ||** `Give back to community` `Learn In Public`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 12-Feb || Day 06
 
   - 🎓 **Learning ||** Figma, Rive JS Runtime
