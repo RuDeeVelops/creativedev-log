@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 14-Feb || Day 08
+
+  - 🎓 **Learning ||** CSS animations and transitions
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
+  - 🎨 **Daily Design ||** [CSS Hover Blur Transition](https://github.com/RuDeeVelops/daily_CSS_hovers)
+  - 💡 **Big Challenge ||** how to better stack CSS animations
+  - 🏆 **Big Solution ||** cascading them in a single animation property
+  - 🌟 **One Cool Find ||** [React LED Matrix](https://codepen.io/jh3y/pen/bGZQXYB)
+  - 💭 **Idea Cloud ||** `CSS`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 13-Feb || Day 07
 
   - 🎓 **Learning ||** Figma
