@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 15-Feb || Day 09
+
+  - 🎓 **Learning ||** CSS animations and transitions
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
+  - 🎨 **Daily Design ||** [Vaporwave1](https://dribbble.com/shots/23650281-Daily-Design-09-Vaporwave-1)
+  - 💡 **Big Challenge ||** glow effects in figma
+  - 🏆 **Big Solution ||** just "GLOW" with the flow (just try stuff)
+  - 🌟 **One Cool Find ||** [linear look](https://frontend.horse/articles/the-linear-look/)
+  - 💭 **Idea Cloud ||** `linear look`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 14-Feb || Day 08
 
   - 🎓 **Learning ||** CSS animations and transitions
