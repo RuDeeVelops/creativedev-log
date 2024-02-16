@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 16-Feb || Day 10
+
+  - 🎓 **Learning ||** JS Dom Manipulation
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
+  - 🎨 **Daily Design ||** [Eclipse](https://dribbble.com/shots/23657187-Daily-Design-10-Eclipse)
+  - 💡 **Big Challenge ||** Creating a color randomization logic in JS
+  - 🏆 **Big Solution ||** Use HSL and keep some values constant while randomizing others
+  - 🌟 **One Cool Find ||** [gitness.com](https://gitness.com/)
+  - 💭 **Idea Cloud ||** `linear look` `js`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 15-Feb || Day 09
 
   - 🎓 **Learning ||** CSS animations and transitions
