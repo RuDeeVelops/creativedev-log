@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 17-Feb || Day 11
+
+  - 🎓 **Learning ||** JS Dom Manipulation
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
+  - 🎨 **Daily Design ||** [Dark Eclipse](https://dribbble.com/shots/23661515-Daily-Design-11-Dark-Eclipse)
+  - 💡 **Big Challenge ||** Modern fluid responsive solution
+  - 🏆 **Big Solution ||** Use CSS `clamp()` mixing `rem,vh/vw,px`
+  - 🌟 **One Cool Find ||** [Generative SVG Grids](https://frontend.horse/articles/generative-grids/)
+  - 💭 **Idea Cloud ||** `JS is hard` `don't stop`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 16-Feb || Day 10
 
   - 🎓 **Learning ||** JS Dom Manipulation
