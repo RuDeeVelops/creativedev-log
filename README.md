@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 18-Feb || Day 12
+
+  - 🎓 **Learning ||** Javascript
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
+  - 🎨 **Daily Design ||** [Dark Shine](https://dribbble.com/shots/23665722-Daily-Design-12-Dark-Shine-Figma)
+  - 💡 **Big Challenge ||** Converting HSL to HEX via Javascript
+  - 🏆 **Big Solution ||** Use open source knowledge (jameslmilner.com/posts/converting-rgb-hex-hsl-colors/)
+  - 🌟 **One Cool Find ||** https://www.jameslmilner.com/posts/converting-rgb-hex-hsl-colors/
+  - 💭 **Idea Cloud ||** `JS starts to make some sense` `don't stop`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 17-Feb || Day 11
 
   - 🎓 **Learning ||** JS Dom Manipulation
