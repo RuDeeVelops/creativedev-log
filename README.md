@@ -17,6 +17,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 20-Feb || Day 14
+
+  - 🎓 **Learning ||** Javascript and DOM
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
+  - 🎨 **Daily Design ||** [Simple CSS Buttons](https://codepen.io/3DRudy/pen/WNmWgjB)
+  - 💡 **Big Challenge ||** figuring out default parameters in ES6
+  - 🏆 **Big Solution ||** "translate" them into English, "speak them"
+  - 🌟 **One Cool Find ||** [Carbon - Source Code "prettifier"](https://carbon.now.sh/)
+  - 💭 **Idea Cloud ||** `JS starts to make 1% more sense` `really don't stop`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 19-Feb || Day 13
 
   - 🎓 **Learning ||** Javascript and DOM
