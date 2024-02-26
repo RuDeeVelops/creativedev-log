@@ -1,0 +1,21 @@
+# This configuration will dispatch a log_updated event to the target repository (RuDeeVelops/RuDeeVelops) whenever a commit is made to the README.md file in the current repository. This triggers the Dynamic Log Entry Update (dynamic_logEntry.yml) action in the RuDeeVelops/RuDeeVelops repository updating its readme file with the latest log entry.
+
+
+name: Dispatch Log Updated Event
+
+on:
+    push:
+        paths:
+            - 'README.md'
+
+jobs:
+    dispatch:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Repository Dispatch
+                uses: peter-evans/repository-dispatch@v1
+                with:
+                    token: ${{ secrets.PAT }}
+                    repository: RuDeeVelops/RuDeeVelops
+                    event-type: log_updated
+
