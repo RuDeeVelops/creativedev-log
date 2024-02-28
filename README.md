@@ -12,6 +12,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 - **This is a minimalist daily log designed to track that journey, from beginning to infinite.** <br>
 - It's a compassionate, constant reminder that getting [1% better everyday](https://jamesclear.com/continuous-improvement) matters.
 - It was inspired by [this video](https://youtu.be/YKkJwBzBYSk?si=WukU4o1ESfslJhUw) and the [learning in public manifesto](https://www.swyx.io/learn-in-public) .
+- **Important:** the log is part of [self-updating Github actions](https://github.com/RuDeeVelops/RuDeeVelops/blob/main/.github/workflows/dynamic_logEntry.yml), do not edit the structure.
 
 ## 📅 2024
 
@@ -23,7 +24,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator **top**
   - 🎨 **Daily Design ||** N/A
   - 💡 **Big Challenge ||** FinalBoss **serious**
-  - 🏆 **Big Solution ||** test
+  - 🏆 **Big Solution ||** test yayyyy
   - 🌟 **One Cool Find ||** [Mymind.com](https://access.mymind.com/onboard)
   - 💭 **Idea Cloud ||** `feel the power of learning`
   - 📝 **Blog Entry ||** n/a
