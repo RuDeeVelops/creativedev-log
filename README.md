@@ -20,7 +20,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 - #### 27-Feb || Day 16
 
   - 🎓 **Learning ||** Github Actions
-  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator **top**
   - 🎨 **Daily Design ||** N/A
   - 💡 **Big Challenge ||** FinalBoss **serious**
   - 🏆 **Big Solution ||** test
