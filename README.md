@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 29-Feb || Day 17
+
+  - 🎓 **Learning ||** Github Actions and hacking
+  - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator **top**
+  - 🎨 **Daily Design ||** N/A
+  - 💡 **Big Challenge ||** How to make collapsible buttons in github
+  - 🏆 **Big Solution ||** use `svg`, `picture` and `detail`
+  - 🌟 **One Cool Find ||** [Mymind.com](https://access.mymind.com/onboard)
+  - 💭 **Idea Cloud ||** `rushing` `relaxing`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 27-Feb || Day 16
 
   - 🎓 **Learning ||** Github Actions
