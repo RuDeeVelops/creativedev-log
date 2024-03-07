@@ -20,7 +20,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
 - #### 07-Mar
 
-  - 🎓 **Learning ||** Scrimba Frontend
+  - 🎓 **Learning ||** Scrimba Frontend Path
   - 🛠️ **Building ||** N/A
   - 🎨 **Daily Design ||** [Vaporwave 1 CSS](https://dribbble.com/shots/23786021-Daily-CSS-Sketch-Vaporwave-1)
   - 💡 **Big Challenge ||** How to create a sense of depth in CSS
@@ -30,7 +30,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 29-Feb || Day 17
+- #### 29-Feb
 
   - 🎓 **Learning ||** Github Actions and hacks
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator **top**
@@ -42,7 +42,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 27-Feb || Day 16
+- #### 27-Feb
 
   - 🎓 **Learning ||** Github Actions
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator **top**
@@ -54,7 +54,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 21-Feb || Day 15
+- #### 21-Feb
 
   - 🎓 **Learning ||** CSS, Javascript and DOM
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
@@ -66,7 +66,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 20-Feb || Day 14
+- #### 20-Feb
 
   - 🎓 **Learning ||** Javascript and DOM
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
@@ -78,7 +78,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 19-Feb || Day 13
+- #### 19-Feb
 
   - 🎓 **Learning ||** Javascript and DOM
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
@@ -90,7 +90,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 18-Feb || Day 12
+- #### 18-Feb
 
   - 🎓 **Learning ||** Javascript
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20) and a gradient generator
@@ -102,7 +102,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 17-Feb || Day 11
+- #### 17-Feb
 
   - 🎓 **Learning ||** JS Dom Manipulation
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
@@ -114,7 +114,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 16-Feb || Day 10
+- #### 16-Feb
 
   - 🎓 **Learning ||** JS Dom Manipulation
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
@@ -126,7 +126,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 15-Feb || Day 09
+- #### 15-Feb
 
   - 🎓 **Learning ||** CSS animations and transitions
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
@@ -138,7 +138,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 14-Feb || Day 08
+- #### 14-Feb
 
   - 🎓 **Learning ||** CSS animations and transitions
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
@@ -150,7 +150,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 13-Feb || Day 07
+- #### 13-Feb
 
   - 🎓 **Learning ||** Figma
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
@@ -162,7 +162,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 12-Feb || Day 06
+- #### 12-Feb
 
   - 🎓 **Learning ||** Figma, Rive JS Runtime
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1757100457065857474?s=20)
@@ -174,7 +174,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 11-Feb || Day 05
+- #### 11-Feb
 
   - 🎓 **Learning ||** Astro, Figma grids
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756254507393077458?s=20)
@@ -186,7 +186,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 10-Feb || Day 04
+- #### 10-Feb
 
   - 🎓 **Learning ||** Rive JS/WASM Runtime
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756254507393077458?s=20)
@@ -198,7 +198,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 09-Feb || Day 03
+- #### 09-Feb
 
   - 🎓 **Learning ||** Rive, Figma, Rive JS/WASM Runtime
   - 🛠️ **Building ||** [this](https://x.com/3DRudy/status/1756101931720667232?s=20)
@@ -210,7 +210,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 08-Feb || Day 02
+- #### 08-Feb
 
   - 🎓 **Learning ||** Rive and motion design
   - 🛠️ **Building ||** An interactive 2D character animation and menu in Rive.
@@ -222,7 +222,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
-- #### 07-Feb || Day 01
+- #### 07-Feb
   - 🎓 **Learning ||** Markdown, Rive and motion design
   - 🛠️ **Building ||** An interactive 2D character animation and menu in Rive.
   - 🎨 **Daily Design ||** [1% Better Banner](https://dribbble.com/shots/23603120-Daily-Design-01-1-better)
