@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 07-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [Vaporwave 1 CSS](https://dribbble.com/shots/23786021-Daily-CSS-Sketch-Vaporwave-1)
+  - 💡 **Big Challenge ||** How to create a sense of depth in CSS
+  - 🏆 **Big Solution ||** use `box-shadow` `inset`
+  - 🌟 **One Cool Find ||** https://0xca0a.gumroad.com/l/B4N4N4S
+  - 💭 **Idea Cloud ||** `curiosity is power`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 29-Feb || Day 17
 
   - 🎓 **Learning ||** Github Actions and hacks
