@@ -38,7 +38,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 💡 **Big Challenge ||** How to create a sense of depth in CSS
   - 🏆 **Big Solution ||** use `box-shadow` `inset`
   - 🌟 **One Cool Find ||** https://0xca0a.gumroad.com/l/B4N4N4S
-  - 💭 **Idea Cloud ||** `curiosity is pure power`
+  - 💭 **Idea Cloud ||** `curiosity is raw power`
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
 
