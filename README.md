@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 08-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [DailyUI 001](https://dribbble.com/shots/23791536--DailyUI-001)
+  - 💡 **Big Challenge ||** Getting ready for a party right now
+  - 🏆 **Big Solution ||** use brutalism to design quickly
+  - 🌟 **One Cool Find ||** the #dailyUI challenge
+  - 💭 **Idea Cloud ||** `learning JS is pure power`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 07-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path
