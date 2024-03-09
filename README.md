@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 09-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [DailyUI 002](https://dribbble.com/shots/23796590--DailyUI-002)
+  - 💡 **Big Challenge ||** Working in the DailyUI routine within Scrimba
+  - 🏆 **Big Solution ||** focus on clean and functional design
+  - 🌟 **One Cool Find ||** [Figma Dev Tutorial from Envato](https://www.youtube.com/watch?v=L5p9iX8wKos)
+  - 💭 **Idea Cloud ||** `Possibility keeps you fresh`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 08-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
