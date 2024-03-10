@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 10-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [Daily UI 003](https://dribbble.com/shots/23800615-DailyUI-003)
+  - 💡 **Big Challenge ||** Make something interest with type only
+  - 🏆 **Big Solution ||** use center and font size
+  - 🌟 **One Cool Find ||** [Quenting Hocde website](https://godly.website/website/quentin-hocde-736)
+  - 💭 **Idea Cloud ||** `new vs old JS conventions`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 09-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
