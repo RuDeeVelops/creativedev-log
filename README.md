@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 12-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [Daily UI 005](https://dribbble.com/shots/23812275-Daily-UI-005)
+  - 💡 **Big Challenge ||** Deal with not having infinite time n.2
+  - 🏆 **Big Solution ||** use it well! focus n.2
+  - 🌟 **One Cool Find ||** https://github.com/Fennec-hub/three-css-layout
+  - 💭 **Idea Cloud ||** `let stuff go and smile`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 11-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
