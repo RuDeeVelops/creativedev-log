@@ -18,6 +18,30 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 14-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma Neumorphic
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [Daily UI 006](https://dribbble.com/shots/23829612-DailyUI-007-Settings-Figma)
+  - 💡 **Big Challenge ||** Use shadows to fake 3D in Figma
+  - 🏆 **Big Solution ||** Combine inner and drop
+  - 🌟 **One Cool Find ||** n/a
+  - 💭 **Idea Cloud ||** `Make today look like the day you'd love living everyday. `
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
+- #### 13-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
+  - 🛠️ **Building ||** N/A
+  - 🎨 **Daily Design ||** [Daily UI 006](https://dribbble.com/shots/23820444-DailyUI-006)
+  - 💡 **Big Challenge ||** Remember to update the log!
+  - 🏆 **Big Solution ||** update it the day after
+  - 🌟 **One Cool Find ||** n/a
+  - 💭 **Idea Cloud ||** `thoughts don't last`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 12-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript
