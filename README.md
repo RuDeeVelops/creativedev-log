@@ -18,11 +18,23 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 15-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma Animations
+  - 🛠️ **Building ||** [Animated Toggle Mode in Figma, it's cool!](https://dribbble.com/shots/23835942-Animated-Dark-Mode-Figma)
+  - 🎨 **Daily Design ||** [Daily UI 008](https://dribbble.com/shots/23835964-DailyUI-008-404)
+  - 💡 **Big Challenge ||** Animate stuff in Figma
+  - 🏆 **Big Solution ||** Let interpolation work by itself, fewer keys
+  - 🌟 **One Cool Find ||** https://delights.flayks.com/
+  - 💭 **Idea Cloud ||** `Figma can also be a superpower`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 14-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma Neumorphic
   - 🛠️ **Building ||** N/A
-  - 🎨 **Daily Design ||** [Daily UI 006](https://dribbble.com/shots/23829612-DailyUI-007-Settings-Figma)
+  - 🎨 **Daily Design ||** [Daily UI 007](https://dribbble.com/shots/23829612-DailyUI-007-Settings-Figma)
   - 💡 **Big Challenge ||** Use shadows to fake 3D in Figma
   - 🏆 **Big Solution ||** Combine inner and drop
   - 🌟 **One Cool Find ||** n/a
