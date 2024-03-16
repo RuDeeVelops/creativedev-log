@@ -16,7 +16,7 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
 ## 📅 2024
 
- <details open><summary>February</summary>
+ <details open><summary>March</summary>
 
 - #### 16-Mar
 
@@ -137,6 +137,10 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
   - 💭 **Idea Cloud ||** `curiosity is raw power`
   - 📝 **Blog Entry ||** n/a
   - 🎥 **YouTube Entry ||** n/a
+
+</details>
+<br/>
+<details><summary>February</summary>
 
 - #### 29-Feb
 
