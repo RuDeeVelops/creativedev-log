@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>February</summary>
 
+- #### 16-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 009](https://dribbble.com/shots/23840720-DailyUI-009-Music-Player-Figma)
+  - 💡 **Big Challenge ||** Use colors but cleanly
+  - 🏆 **Big Solution ||** Play with vibrancy and reuse palette as much as possible
+  - 🌟 **One Cool Find ||** [GUI challenges](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
+  - 💭 **Idea Cloud ||** `Good to be empty and relaxed`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 15-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma Animations
