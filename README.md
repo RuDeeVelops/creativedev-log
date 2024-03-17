@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 17-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 010](https://dribbble.com/shots/23843924-DailyUI-010-Share-Animation)
+  - 💡 **Big Challenge ||** Figma cannot smart animate strokes
+  - 🏆 **Big Solution ||** Use shape transformations
+  - 🌟 **One Cool Find ||** [Downdog App for Yoga!](https://www.downdogapp.com/)
+  - 💭 **Idea Cloud ||** `The mind works peacefully in a peaceful body`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 16-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
