@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 18-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 011](https://dribbble.com/shots/23848618-DailyUI-011-Flash-Message)
+  - 💡 **Big Challenge ||** Staying here
+  - 🏆 **Big Solution ||** Yoga
+  - 🌟 **One Cool Find ||** https://codepen.io/amit_sheen/full/WNWoXdx
+  - 💭 **Idea Cloud ||** `Peace and happiness is your default, misery needs a motive`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 17-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
