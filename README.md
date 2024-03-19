@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 19-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 012](https://dribbble.com/shots/23858016-DailyUI-012-Ecommerce)
+  - 💡 **Big Challenge ||** Staying here
+  - 🏆 **Big Solution ||** Yoga
+  - 🌟 **One Cool Find ||** Official David Cross Show
+  - 💭 **Idea Cloud ||** `Decide the priority n.1`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 18-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
