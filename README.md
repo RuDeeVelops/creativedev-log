@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 21-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 014](https://dribbble.com/shots/23872145-DailyUI-14-100-Countdown-Figma)
+  - 💡 **Big Challenge ||** Balancing dev and design
+  - 🏆 **Big Solution ||** Dev till 6pm, design 1hr after
+  - 🌟 **One Cool Find ||** https://labs.lusion.co/
+  - 💭 **Idea Cloud ||** `Minimalist frequency works!`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 20-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
