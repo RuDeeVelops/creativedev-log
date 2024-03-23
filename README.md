@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 23-Mar
+
+  - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 016](https://dribbble.com/shots/23882817-DailyUI-016-Pop-Up-overlay-Rive)
+  - 💡 **Big Challenge ||** Don't get caught in discussion
+  - 🏆 **Big Solution ||** Use love instead of hate
+  - 🌟 **One Cool Find ||** https://minimalism.substack.com/p/crafting-a-digital-garden
+  - 💭 **Idea Cloud ||** `step by step, don't look too far ahead but be confident you'll get there`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 22-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
