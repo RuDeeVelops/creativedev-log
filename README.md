@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 24-Mar
+
+  - 🎓 **Learning ||** Absolutely nothing today, proud to say!
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 017](https://dribbble.com/shots/23886698-DailyUI-017-Purchase-Receipt)
+  - 💡 **Big Challenge ||** Can you be idle?
+  - 🏆 **Big Solution ||** A day at the beach and a glass of red wine
+  - 🌟 **One Cool Find ||** https://x.com/samdape/status/1771937537558200328?s=20
+  - 💭 **Idea Cloud ||** `where`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 23-Mar
 
   - 🎓 **Learning ||** Scrimba Frontend Path, Javascript and Figma!
