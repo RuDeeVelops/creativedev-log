@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 25-Mar
+
+  - 🎓 **Learning ||** JSON parse and stringify and localStorage
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 018](https://dribbble.com/shots/23892658-DailyUI-018-Chart-Figma)
+  - 💡 **Big Challenge ||** The quickest sketch in Figma
+  - 🏆 **Big Solution ||** duplicate stuff randomly and simmetrize it or flip it!
+  - 🌟 **One Cool Find ||** My distant relative Laurie in the US
+  - 💭 **Idea Cloud ||** `localStorage`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 24-Mar
 
   - 🎓 **Learning ||** Absolutely nothing today, proud to say!
