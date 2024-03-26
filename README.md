@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 26-Mar
+
+  - 🎓 **Learning ||** function parameters
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 019](https://dribbble.com/shots/23899274-DailyUI-019-Leaderboards)
+  - 💡 **Big Challenge ||** Keeping it up
+  - 🏆 **Big Solution ||** Keep it up. You will make it soon
+  - 🌟 **One Cool Find ||** https://dribbble.com/shots/23899274-DailyUI-019-Leaderboards
+  - 💭 **Idea Cloud ||** `I will make it`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 25-Mar
 
   - 🎓 **Learning ||** JSON parse and stringify and localStorage
