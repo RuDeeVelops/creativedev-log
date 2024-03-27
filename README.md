@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>March</summary>
 
+- #### 27-Mar
+
+  - 🎓 **Learning ||** callback functions
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 020](https://dribbble.com/shots/23904586-DailyUI-020-Location-Tracker)
+  - 💡 **Big Challenge ||** Maintain the motivation during the storm
+  - 🏆 **Big Solution ||** One Step at a time
+  - 🌟 **One Cool Find ||**
+  - 💭 **Idea Cloud ||** `Red or Apples... does it really matter?`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 26-Mar
 
   - 🎓 **Learning ||** function parameters
