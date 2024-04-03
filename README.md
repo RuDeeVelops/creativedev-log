@@ -16,7 +16,23 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
 ## 📅 2024
 
- <details open><summary>March</summary>
+ <details open><summary>April</summary>
+
+- #### 03-Apr
+
+  - 🎓 **Learning ||** To sort my taxes
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** Going back to yoga
+  - 🏆 **Big Solution ||** Just do it
+  - 🌟 **One Cool Find ||** https://masaigon.space
+  - 💭 **Idea Cloud ||** `here or there.. italy or portugal`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
+</details>
+<br/>
+<details><summary>March</summary>
 
 - #### 27-Mar
 
