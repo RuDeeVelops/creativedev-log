@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 04-Apr
+
+  - 🎓 **Learning ||** To sort my taxes - The Revenge
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** Going back to yoga
+  - 🏆 **Big Solution ||** Just do it but do it respecting your body
+  - 🌟 **One Cool Find ||** https://t.co/ZgYgvpdTcs
+  - 💭 **Idea Cloud ||** `be strong! close to the first round of decisions for moving`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 03-Apr
 
   - 🎓 **Learning ||** To sort my taxes
