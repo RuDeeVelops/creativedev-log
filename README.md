@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 05-Apr
+
+  - 🎓 **Learning ||** To sort my taxes - The final coundown and Figma
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** [Daily UI 022](https://dribbble.com/shots/23959651-DailyUI-22-Search-Figma)
+  - 💡 **Big Challenge ||** Animate smoothly in Figma
+  - 🏆 **Big Solution ||** Keep identical namings and consistent parameters modifications
+  - 🌟 **One Cool Find ||** https://mailchi.mp/codrops/collective827-ghts
+  - 💭 **Idea Cloud ||** `smart animate` `healthy heart`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 04-Apr
 
   - 🎓 **Learning ||** To sort my taxes - The Revenge
