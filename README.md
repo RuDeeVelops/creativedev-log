@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 09-Apr
+
+  - 🎓 **Learning ||** onValue and other Firebases JS methods
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** Visualize nested arrays
+  - 🏆 **Big Solution ||** Use copilot to create small explanatory exercises
+  - 🌟 **One Cool Find ||** http://madeinhaus.com
+  - 💭 **Idea Cloud ||** `find lightheartedness`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 05-Apr
 
   - 🎓 **Learning ||** To sort my taxes - The final coundown and Figma
