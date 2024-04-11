@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 11-Apr
+
+  - 🎓 **Learning ||** css deep dive 1 on Scrimba
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** Visualizing css layout possibilities
+  - 🏆 **Big Solution ||** flexbox will help for a variety of cases, add margin to children to expan options
+  - 🌟 **One Cool Find ||** https://abduzeedo.com/rnls-elegant-and-minimalist-branding-identity-design
+  - 💭 **Idea Cloud ||** `you will get there`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 09-Apr
 
   - 🎓 **Learning ||** onValue and other Firebases JS methods
