@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 12-Apr
+
+  - 🎓 **Learning ||** FormData, .classList, setTimeout, element.style
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** having the persistence to not skip understanding
+  - 🏆 **Big Solution ||** investigate untill all the doubts are exinguished
+  - 🌟 **One Cool Find ||** https://www.rayraylab.com/
+  - 💭 **Idea Cloud ||** `it gets easier!`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 11-Apr
 
   - 🎓 **Learning ||** css deep dive 1 on Scrimba
