@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 14-Apr
+
+  - 🎓 **Learning ||** for of, import, querySelector, getElementsbyClassName, classList.add, classList.remove, .includes, .filter
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** having faith it will all come together
+  - 🏆 **Big Solution ||** revise
+  - 🌟 **One Cool Find ||** n/a
+  - 💭 **Idea Cloud ||** `it seems you're not moving, but you are`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 12-Apr
 
   - 🎓 **Learning ||** FormData, .classList, setTimeout, element.style
