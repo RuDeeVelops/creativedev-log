@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 15-Apr
+
+  - 🎓 **Learning ||** .forEach(), data attributes, CDNs and more in Scrimba Twitter Clone
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** focusing will keep energy flowing and eradicate anxiety
+  - 🏆 **Big Solution ||** just relax INTO focusing
+  - 🌟 **One Cool Find ||** n/a
+  - 💭 **Idea Cloud ||** `focus`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 14-Apr
 
   - 🎓 **Learning ||** for of, import, querySelector, getElementsbyClassName, classList.add, classList.remove, .includes, .filter
