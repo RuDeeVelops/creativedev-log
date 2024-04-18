@@ -18,6 +18,18 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
  <details open><summary>April</summary>
 
+- #### 18-Apr
+
+  - 🎓 **Learning ||** responsive CSS from Scrimba
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** n/a
+  - 💡 **Big Challenge ||** take note of all possibilities
+  - 🏆 **Big Solution ||** write cliff notes everytime
+  - 🌟 **One Cool Find ||** https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/
+  - 💭 **Idea Cloud ||** `one idea at a time`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
 - #### 15-Apr
 
   - 🎓 **Learning ||** .forEach(), data attributes, CDNs and more in Scrimba Twitter Clone
