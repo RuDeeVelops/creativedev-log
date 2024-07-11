@@ -16,7 +16,22 @@ In January 2024 I decided to learn Creative Web Development, transitioning from 
 
 ## 📅 2024
 
- <details open><summary>April</summary>
+ <details open><summary>July</summary>
+
+- #### 11-July
+
+  - 🎓 **Learning ||** Figma in depth
+  - 🛠️ **Building ||** n/a
+  - 🎨 **Daily Design ||** https://dribbble.com/shots/24507401-Dark-Mode-Toggle
+  - 💡 **Big Challenge ||** don't let yourself get squeezed
+  - 🏆 **Big Solution ||** feel your space is equal to others'
+  - 🌟 **One Cool Find ||** n/a
+  - 💭 **Idea Cloud ||** `no opinion can contain your freedom`
+  - 📝 **Blog Entry ||** n/a
+  - 🎥 **YouTube Entry ||** n/a
+
+</details>
+ <details><summary>April</summary>
 
 - #### 18-Apr
 
